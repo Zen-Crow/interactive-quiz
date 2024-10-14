@@ -1,0 +1,25 @@
+[
+    {
+        "prompt": "Какие из перечисленных СУБД относятся к реляционным (выберите все подходящие ответы)?",
+        "options": [
+            "A. MongoDB",
+            "B. PostgreSQL",
+            "C. MariaDB",
+            "D. Elasticsearch",
+            "E. Greenplum"
+        ],
+        "answer": ["B", "C", "E"],
+        "type": "multiple"
+    },
+    {
+        "prompt": "Как называется технология, позволяющая преобразовать внутренние IP-адреса в публичные?",
+        "options": [
+            "A. NAT",
+            "B. TCP",
+            "C. DNS",
+            "D. HTTP"
+        ],
+        "answer": "A",
+        "type": "single"
+    }
+]
